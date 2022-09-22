@@ -7,6 +7,7 @@ import './App.css';
 function App() {
   return (
     <>
+      <h1>ik ga hier mee beginnen</h1>
       <div className="weather-container">
 
         {/*HEADER -------------------- */}
